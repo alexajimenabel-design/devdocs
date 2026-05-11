@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: Proyecto Steam de Historia
 tags:
   - Core development
   - Processes
